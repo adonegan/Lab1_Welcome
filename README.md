@@ -1,4 +1,4 @@
-﻿# Lab 1 - Welcome
+﻿# Lab 4 - Task 1 - Welcome
 
 - Build an ASP.Net MVC application that displays the current system date and time and time zone. 
 - The information should be displayed on a new view and this view should be displayed when the application is run. 
